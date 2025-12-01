@@ -46,6 +46,9 @@ Apply clean code principles and prepare for later architectural patterns (MVVM o
 The project is currently in its early development stage.
 The first screen UI is implemented, and functionality is being added incrementally.
 
+### Design mapped out
+<img width="2051" height="360" alt="image" src="https://github.com/user-attachments/assets/e6a0b635-01f6-4f04-93fd-e856e9c498ac" />
+
 ## Roadmap
 
 - Add interval configuration screen
